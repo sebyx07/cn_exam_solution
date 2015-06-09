@@ -1,0 +1,32 @@
+subject: 25
+part_1:
+	1: "a) b)"
+	2: "a) b)"
+	3: "a) b)"
+	4: "a) b)"
+	5: "a) b)"
+	6: "a) b)"
+	7: "a) b)"
+	8: "a) b)"
+	9: "a) b)"
+	10: "a) b)"
+
+part_2:
+	1: "text"
+	2: "text"
+	2: "text"
+	3: "text"
+	4: "text"
+	5: "text"
+
+part_3:
+	1: "text"
+	2: "text"
+	2: "text"
+	3: "text"
+	4: "text"
+	5: "text"
+
+part_4:
+	1: "text"
+	2: "text"
